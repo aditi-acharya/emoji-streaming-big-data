@@ -11,16 +11,4 @@ This project is designed to stream and process emoji data in real-time using a s
 - **Testing Suite**: Includes tools for testing and validating the streaming system.
 
 ## 🧰 Project Structure
-
-├── app.py # Main application entry point
-├── client.py # Client-side logic
-├── client_manager.py # Manages client connections and states
-├── client_register.py # Handles client registration processes
-├── client_web.py # Web interface for clients
-├── cluster_publisher.py # Publishes emoji data to the cluster
-├── emoji_stream.py # Core streaming logic
-├── main_publisher.py # Main publisher module
-├── receive_emoji.py # Receives and processes incoming emoji data
-├── subscriber.py # Subscribes to emoji data streams
-├── testing.py # Testing and validation scripts
-└── README.md # Project documentation
+ 📁 emoji-streaming-big-data/ ├── app.py # Main application entry point ├── client.py # Client-side logic ├── client_manager.py # Manages client connections and states ├── client_register.py # Handles client registration processes ├── client_web.py # Web interface for clients ├── cluster_publisher.py # Publishes emoji data to the cluster ├── emoji_stream.py # Core streaming logic ├── main_publisher.py # Main publisher module ├── receive_emoji.py # Receives and processes incoming emoji data ├── subscriber.py # Subscribes to emoji data streams ├── testing.py # Testing and validation scripts └── README.md # Project documentation
